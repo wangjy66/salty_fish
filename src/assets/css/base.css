@@ -1,0 +1,12 @@
+@import "./normalize.css";
+
+:root {
+    --color-text: rgba(111, 91, 91, 1);
+    --color-good-border: rgba(111, 91, 91, 0.2);
+    --color-high-text: white;
+    --color-background: rgba(244, 245, 244, 0.1);
+}
+body {
+    padding: 0;
+    margin: 0;
+}
